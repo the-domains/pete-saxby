@@ -1,0 +1,28 @@
+name: Pete Saxby
+favicon: null
+layout_spectrum: 0.16266776504926383
+typography_spectrum: 0.9038553293794394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5390386413782835
+  lightness: 0.9953057495877147
+  saturation: 0.4125754500273615
+  rhythmicContrast: 0.8593438260722905
+purpose: []
